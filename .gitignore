@@ -1,0 +1,12 @@
+*.pyc
+
+# Various plot images
+*.pdf
+*.jpg
+*.png
+
+# PyCharm metadata
+.idea/
+
+# Celltypes IO
+runs/
